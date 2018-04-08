@@ -1,0 +1,10 @@
+/* Your custom styles */
+.btn-rounded {
+  border-radius: 24rem;
+}
+.light-grey {
+  background-color: rgba(0,0,0,.05);
+}
+.img-rounded{
+  border-radius: .5rem .5rem .5rem .5rem;
+}
